@@ -1,0 +1,26 @@
+.mce-tinymce {
+    border-width: 0px !important;
+    float: left;
+    margin: 0px;
+    position: relative;
+}
+.mce-menubar, .mce-toolbar {
+    border: 0px solid #fff !important;
+}
+
+.mce-container {
+    border-color: rgb(118, 115, 124);
+}
+
+.mce-content-body {
+    border-color: rgb(118, 115, 124);
+    color: rgb(118, 115, 124) !important;
+    font: 14px Lato, 'Segoe UI', 'Helvetica Neue', Tahoma, Verdana, Arial, sans-serif !important;
+}
+.mce-panel {
+    border-color: rgb(118, 115, 124);
+}
+.mce-path, .mce-path-item {
+    color: rgb(118, 115, 124) !important;
+    font: 14px Lato, 'Segoe UI', 'Helvetica Neue', Tahoma, Verdana, Arial, sans-serif !important;
+}
